@@ -62,7 +62,7 @@ Gestión de Estado: Uso de Hooks (useState, useEffect, useCallback) para un cicl
 
 Frontend: Next.js 14, TypeScript, Tailwind CSS.
 
-Backend: Java 17, Spring Boot 3, Spring Security (JWT).
+Backend: Java 21, Spring Boot 3, Spring Security (JWT).
 
 Persistencia: MySQL 8.
 
