@@ -15,6 +15,7 @@ El proyecto está totalmente contenedorizado para que pueda ejecutarse sin pasos
    cd administradoDeTareas
 
 2. Levanta la aplicación completa:
+   
      docker compose up --build
 
 3. Accede a la aplicación:
