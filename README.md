@@ -15,12 +15,21 @@ El proyecto está totalmente contenedorizado para que pueda ejecutarse sin pasos
    cd administradoDeTareas
 
 2. Levanta la aplicación completa:
+   
      docker compose up --build
 
 3. Accede a la aplicación:
+   
      Frontend: http://localhost:3000
+   
      API Backend: http://localhost:8080
+   
      Base de Datos: MySQL en el puerto 3306.
+
+4. 🔐 Credenciales de Prueba
+   Para facilitar la revisión, la aplicación cuenta con un usuario pre-configurado:
+   - **Usuario:** `copi@gmail.com`
+   - **Contraseña:** `boca`
 ---------------------------------------------
 🏗️ Arquitectura del Sistema
 Se ha diseñado una arquitectura desacoplada para garantizar escalabilidad y facilidad de mantenimiento.
