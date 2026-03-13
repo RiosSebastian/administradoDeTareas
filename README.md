@@ -18,6 +18,7 @@ El proyecto está totalmente contenedorizado para que pueda ejecutarse sin pasos
      docker compose up --build
 
 3. Accede a la aplicación:
+   
      Frontend: http://localhost:3000
    
      API Backend: http://localhost:8080
